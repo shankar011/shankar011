@@ -12,7 +12,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Elayabharathi M V">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangalore,India</b> 」
+    「 I am a full stack web application developer from <b>Hingoli,India</b> 」
     <br>
     <br>
   </samp>
@@ -21,13 +21,13 @@
 <!--  <a href="https://alsiam.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a> -->
- <a href="https://linkedin.com/in/elayabharathi-mv" target="_blank">
+ <a href="https://www.linkedin.com/in/shankar-suryavanshi/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
-<a href="https://github.com/ebharathi" target="_blank">
+<a href="https://github.com/shankar011" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </a>
-<a href="https://leetcode.com/Elayabharathi" target="_blank">
+<a href="https://www.linkedin.com/in/shankar-suryavanshi/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" />
 </a>
  <!-- <a href="https://dev.to/alsiam" target="_blank">
@@ -36,7 +36,7 @@
 <!--  <a href="https://twitter.com/_alsiam" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a> -->
- <a href="https://instagram.com/elayabharathi.in" target="_blank">
+ <a href="https://www.instagram.com/im_shankar_01/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
  <a href="https://facebook.com/elayabharathi" target="_blank">
@@ -48,19 +48,19 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/ebharathi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebharathi&theme=radical&border=7F3FBF&background=0D1117" alt="Elaya's GitHub streak"/>
+  <a href="https://github.com/shankar011">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebharathi&theme=radical&border=7F3FBF&background=0D1117" alt="Shankar's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ebharathi">
+  <a href="https://github.com/shankar011">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ebharathi&theme=radical" alt="Elaya's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/ebharathi"><img alt="Elaya's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ebharathi&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/shankar011"><img alt="Elaya's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ebharathi&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/ebharathi"><img alt="Elaya's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ebharathi&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
