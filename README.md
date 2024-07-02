@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="https://github.com/shankar011">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ebharathi&theme=radical" alt="Elaya's GitHub Contribution"/>
+    <img src="" alt="Elaya's GitHub Contribution"/>
   </a>
 </p>
 
