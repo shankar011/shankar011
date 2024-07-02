@@ -60,8 +60,8 @@
 </p>
 
 <a> 
-    <a href="https://github.com/shankar011"><img alt="Elaya's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ebharathi&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/ebharathi"><img alt="Elaya's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ebharathi&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/shankar011"><img alt="Shankar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=shankar011&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/shankar011"><img alt="Shankar's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ebharathi&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 <!-- <p>Welcome to my page! </br> I'm Elaya, Fullstack developer from  <b>Coimbatore India</b>, currently living in <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" width="13"/> <b>Bangalore, India</b>.I was graduated from GCT'24. Basically I love web development. Worked at a startup called Travelfika as Fullstack Developer for almost 1 year. Then now working in ImpactoX Gen as a developer. I would never say that I have learnt something completely becoz i still am & always.</p>
