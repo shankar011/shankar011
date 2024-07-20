@@ -39,9 +39,9 @@
  <a href="https://www.instagram.com/im_shankar_01/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
- <a href="https://facebook.com/elayabharathi" target="_blank">
+<!--  <a href="https://facebook.com/elayabharathi" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
-  </a> 
+  </a>  -->
 </p>
 <br/>
 <hr/>
